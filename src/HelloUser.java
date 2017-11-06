@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class HelloUser {
 	
@@ -17,7 +16,7 @@ public class HelloUser {
 	}
 	
 	public void greetUser() {
-		System.out.println("Hello " + this.getUserName());
+		System.out.println("Hello " + this.getUserName() +"!");
 		
 	}
 	
